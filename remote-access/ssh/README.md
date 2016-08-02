@@ -9,6 +9,7 @@ SSH is built into Linux distributions and Mac OS. For Windows and mobile devices
 - [Windows](windows.md)
 - [iOS](ios.md)
 - [Android](android.md)
+- [Chrome OS & Extension](chrome.md)
 
 *Note you only have access to the command line, not the full desktop environment. For full remote desktop see [VNC](../vnc/README.md).*
 
